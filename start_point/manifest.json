@@ -1,13 +1,14 @@
 {
   "display_name": "Pascal (FreePascal), assert",
-  "image_name": "cyberdojofoundation/freepascal_assert",
-  "visible_filenames":
-  [
-     "hiker.tests.pas",
-     "hiker.pas",
-     "cyber-dojo.sh"
+  "image_name": "cyberdojofoundation/freepascal_assert:71a06f3",
+  "visible_filenames": [
+    "hiker.tests.pas",
+    "hiker.pas",
+    "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".pas" ],
+  "filename_extension": [
+    ".pas"
+  ],
   "max_seconds": 10,
   "tab_size": 4
 }
